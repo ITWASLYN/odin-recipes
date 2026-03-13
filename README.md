@@ -1,1 +1,1 @@
-test test test
+This is me following the tutorial for the Odin Project ;D
